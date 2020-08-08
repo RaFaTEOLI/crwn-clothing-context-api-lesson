@@ -1,5 +1,5 @@
 # react-context-complete
-A complete version of our application converting everything redux over to using the contextAPI
+A complete version of the crwn-clothing application converting everything redux over to using the contextAPI
 
 # How to fork and clone
 
